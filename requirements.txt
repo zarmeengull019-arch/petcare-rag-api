@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn[standard]
+python-multipart
+numpy
+huggingface_hub
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
